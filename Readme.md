@@ -12,5 +12,5 @@ Execution :
 $ python tcd_python.py
 
 
-# Developped by MIRAN SYLLA
+Developped by MIRAN SYLLA
 
